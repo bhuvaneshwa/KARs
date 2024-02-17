@@ -87,8 +87,7 @@ body {
   color: #1a76d1;
   font-size: 15px;
 }
-.pro-features .button {
-}
+
 .pro-features .button .btn {
   width: 100%;
   text-align: center;
@@ -981,8 +980,7 @@ body {
 .why-choose .choose-left p {
   margin-bottom: 35px;
 }
-.why-choose .choose-left .list {
-}
+
 .why-choose .choose-left .list li {
   color: #868686;
   margin-bottom: 12px;
@@ -1009,7 +1007,7 @@ body {
 .why-choose .choose-right {
   height: 100%;
   width: 100%;
-  background-image: url("img/pf1.jpg");
+ 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
